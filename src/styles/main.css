@@ -1,0 +1,8 @@
+h1 {
+  width: 2px;
+  color: red;
+}
+
+h1:hover {
+  cursor: pointer;
+}
