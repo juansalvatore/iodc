@@ -8,7 +8,6 @@ import en from 'react-intl/locale-data/en'
 import es from 'react-intl/locale-data/es'
 import reducers from './reducers'
 import App from './App'
-// import rootReducer from './reducers'
 import { localeSet } from './actions/locale'
 
 addLocaleData(en)
